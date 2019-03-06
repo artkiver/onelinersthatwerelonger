@@ -19,11 +19,21 @@
 # unless absolutely required.
 # Alas, most programmers who proceeded my generation, were not that smart.
 #
-# I am no genius. I did not test into GATE [Gifted and Advanced Teaching Enrichment] in California public schools for example.
+# I am no genius. I did not test into GATE [Gifted and Advanced Teaching Enrichment] 
+# in California public schools for example.
+# Though often a Straight-A and honor roll student. I failed classes too.
+# I dropped out of my first college. Went to a local Junior College to 
+# get credits before transferring to and eventually graduating from a
+# University.
+# 
+# I and some of my friends were interloping onto military (nps.navy.mil) 
+# networks as teenagers before we were 18 and from my vantage, computer
+# security has barely improved since then in most places. Some problems
+# are apparently intractable.
 #
 # I did use programming as a form of escapism from a terrible life though.
 # Even when I did not have access to a computer of my own, I would read books.
-# I would  learn how to program them so that when I did get a chance to be there
+# I would learn how to program them so that when I did get a chance to be there
 # in front of them, I could do something functional.
 
 #
@@ -39,23 +49,32 @@
 # I like robots, but I like more complete mirrors when mirroring data more.
 # Only sharing this on github because if I am going through the trouble
 # to look this up for the Nth time, I may as well share it for others too.
+#
 # WTFPL licensed
+#
 # Though I would strongly recommend removing these comments if you actually
 # decide to use this somewhere for something. Being concise is a virtue
-# in speach, and particularly in programming.
+# in speach, and that is especially so in programming.
 # I strongly recommend not ignoring robots too.
 # Strive for Kolgomorov complexity reduction in your ways or don't cross
 # with mine lest you ruffle my feathers.
+# asm is too high level for me often, I do hardware and network design too.
+# SGI had 10Gbps networks in the 1990s. I've built much faster things since
+# for employers and occasionally private and or personal use.
 #
 # ｜
 # グ
 # レ
 # ェ
 # ーgrey
+#
 # I do share code freely too, but am already facile at compiling > 30MLoC code
 # from source which have far fewer comments to code ratio than this example.
 # If you are still wage slaving with Micro$oft you are a blight and I wish
-# no peace with you. Moreover, you will find no peace with me nor real innovators.
+# no peace with you. Moreover, you will find no peace with me 
+# Nor many other real innovators.
+# Turns out that empires by billionaires who were college drop outs
+# make some enemies after a few decades.
 # However, this can run under Windows 10 just fine. Just install the
 # WSL [Windows Services for Linux] option so you can have something bloody
 # better than that shite OS and CLI [powershell is no better,far worse than
