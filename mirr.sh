@@ -35,7 +35,7 @@
 # Even when I did not have access to a computer of my own, I would read books.
 # I would learn how to program them so that when I did get a chance to be there
 # in front of them, I could do something functional.
-
+#
 #
 # Anyway, this "script" is essentially useful wget parameters.
 # Is basically a laziness "hack" so I do not need to keep consulting
