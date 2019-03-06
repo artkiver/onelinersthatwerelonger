@@ -56,7 +56,7 @@
 # decide to use this somewhere for something. Being concise is a virtue
 # in speach, and that is especially so in programming.
 # I strongly recommend not ignoring robots too.
-# Strive for Kolgomorov complexity reduction in your ways or don't cross
+# Strive for Kolmogorov complexity reduction in your ways or don't cross
 # with mine lest you ruffle my feathers.
 # asm is too high level for me often, I do hardware and network design too.
 # SGI had 10Gbps networks in the 1990s. I've built much faster things since
