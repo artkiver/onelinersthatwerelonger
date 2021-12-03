@@ -17,7 +17,7 @@
 # If you get paid to write this sort of stuff, you are incredibly privileged.
 # Hopefully also smart enough to not run code with root or admin privileges
 # unless absolutely required.
-# Alas, most programmers who proceeded my generation, were not that smart.
+# Alas, most programmers who preceded my generation, were not that smart.
 #
 # I am no genius. I did not test into GATE [Gifted and Advanced Teaching Enrichment] 
 # in California public schools for example.
